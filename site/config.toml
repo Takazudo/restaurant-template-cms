@@ -16,6 +16,6 @@ title = "moge"
     weight = 2
 
 [[menu.main]]
-    name = "Gallery"
-    url  = "/gallery"
+    name = "Drinks"
+    url  = "/drinks"
     weight = 3
